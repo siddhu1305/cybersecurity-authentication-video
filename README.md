@@ -3,7 +3,7 @@
 This repository contains my video presentation on **Authentication in Cybersecurity**, created as part of the *Security Operations Center (SOC): Tools & Techniques* activity based on CompTIA CySA+.
 
 ## 🎥 Video Presentation
-Watch the video here: https://youtu.be/NyDQT41oII0
+Watch the video here: [https://youtu.be/NyDQT41oII0](https://youtu.be/NyDQT41oII0)
 
 ## 📚 Topics Covered
 - Introduction to Authentication  
